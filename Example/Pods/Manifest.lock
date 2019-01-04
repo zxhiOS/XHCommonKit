@@ -1,0 +1,16 @@
+PODS:
+  - XHCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - XHCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  XHCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XHCommonKit: 3e60b9ee1849c826c00dbab50d2d49b29374d494
+
+PODFILE CHECKSUM: 10b52c3c10fec9f26f7be67d00d1154e8e0581f8
+
+COCOAPODS: 1.5.3
